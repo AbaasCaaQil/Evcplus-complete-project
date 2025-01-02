@@ -1,0 +1,97 @@
+2024-10-21 00:36:01 | Recharge Balance: $100.0
+2024-10-22 16:10:12 | Sent $4 to 771234567: $-4.0
+2024-10-22 16:58:36 | Sent $7 to 771234567: $-7.0
+2024-10-22 17:20:44 | Sent $8.9 to 771234567: $-8.9
+2024-10-22 17:21:21 | Sent $7.09 to 771234567: $-7.09
+2024-10-22 17:22:06 | Sent $9.0 to 771234567: $-9.0
+2024-10-22 17:28:54 | Sent $5.006 to 612667788: $-5.006
+2024-10-22 18:03:54 | Sent $0.09 to 771234567: $-0.09
+2024-10-22 19:25:52 | Sent $0.09 to 771234567: $-0.09
+2024-10-22 19:35:12 | Sent $0.09 to 612345678: $-0.09
+2024-10-24 17:43:43 | [-EVCPlus ] $10.10 ayaad u wareejisay 771234567: $-10.1
+2024-10-24 18:58:04 | [-EVCPlus-] 10.00 ayaad u wareejisay 612345566 : $-10.0
+2024-10-24 19:00:32 | [-EVCPlus-] 10.50 ayaad u wareejisay 612345566 : $-10.5
+2024-10-24 19:01:06 | [-EVCPlus-] 1.13 ayaad u wareejisay 612345566 : $-1.12
+2024-10-24 19:01:42 | [-EVCPlus-] 0.01 ayaad u wareejisay 612345678 : $-0.01
+2024-10-24 19:02:17 | [-EVCPlus-] 10.00 ayaad u wareejisay 612345678 : $-10.0
+2024-10-24 19:04:50 | [-EVCPlus ] $1.00 ayaad u wareejisay 612345678: $-1.0
+2024-10-24 19:05:26 | [-EVCPlus ] $4.50 ayaad u wareejisay 612345678: $-4.5
+2024-10-24 19:06:08 | [-EVCPlus ] $9.50 ayaad u wareejisay 612345678: $-9.5
+2024-10-24 19:06:33 | [-EVCPlus ] $1.00 ayaad u wareejisay 612345678: $-1.0
+2024-10-24 19:08:05 | [-EVCPlus-] 2.00 ayaad u wareejisay 612345678 : $-2.0
+2024-10-24 19:31:53 | Recharge Balance: $100.0
+2024-10-24 21:11:51 | Bixi biil 612345566: $-1.0
+2024-10-24 21:13:40 | Bixi biil 612345678: $-10.0
+2024-10-24 21:14:13 | Bixi biil 612345678: $-0.99
+2024-10-24 21:35:17 | [-EVCPlus-] 10.00 ayaad u wareejisay 612345678 : $-10.0
+2024-10-24 21:47:13 | [-EVCPlus-] 10.00 ayaad u wareejisay 612345678 : $-10.0
+2024-10-24 21:48:50 | [-EVCPlus-] 6.00 ayaad u wareejisay 612345678 : $-6.0
+2024-10-24 21:51:22 | [-EVCPlus-] 10.00 ayaad u wareejisay 612343434 : $-10.0
+2024-10-24 21:53:31 | [-EVCPlus-] 19.00 ayaad u wareejisay 612345678 : $-19.0
+2024-10-24 21:56:16 | [-EVCPlus-] 11.11 ayaad u wareejisay 612345678 : $-11.11
+2024-10-24 21:57:38 | [-EVCPlus-] 0.89 ayaad u wareejisay 612345678 : $-0.89
+2024-10-24 21:58:10 | [-EVCPlus-] 2.00 ayaad u wareejisay 612345678 : $-2.0
+2024-10-24 21:58:54 | [-EVCPlus-] 10.00 ayaad u wareejisay 612345678 : $-10.0
+2024-10-24 22:01:38 | [-EVCPlus-] 6.99 ayaad u wareejisay 612345678 : $-6.99
+2024-10-24 22:02:06 | [-EVCPlus-] 0.01 ayaad u wareejisay 612345678 : $-0.01
+2024-10-24 22:10:25 | [-EVCPlus ] $1.20 ayaad u wareejisay 612345678: $-1.2
+2024-10-24 22:11:49 | [-EVCPlus ] $0.80 ayaad u wareejisay 612345678: $-0.8
+2024-10-24 22:15:13 | [-EVCPlus ] $0.50 ayaad u wareejisay 612345678: $-0.5
+2024-10-24 22:15:36 | Recharge Balance: $100.0
+2024-10-24 22:16:15 | [-EVCPlus ] $50.00 ayaad u wareejisay 612345678: $-50.0
+2024-10-24 22:16:53 | [-EVCPlus ] $50.00 ayaad u wareejisay 612345678: $-50.0
+2024-10-24 22:24:39 | Recharge Balance: $100.0
+2024-10-24 22:26:03 | Recharge Balance: $60.0
+2024-10-24 22:29:27 | Recharge Balance: $100.0
+2024-10-24 22:30:36 | Recharge Balance: $100.0
+2024-10-24 22:32:50 | Recharge Balance: $12.0
+2024-10-24 22:37:31 | Recharge Balance: $10.0
+2024-10-24 22:38:09 | Recharge Balance: $0.5
+2024-10-24 22:38:57 | Recharge Balance: $2.2
+2024-10-24 22:39:39 | Recharge Balance: $1.0
+2024-10-24 22:40:36 | Recharge Balance: $18.0
+2024-10-24 22:41:03 | Recharge Balance: $0.8
+2024-10-24 22:41:29 | Recharge Balance: $8.0
+2024-10-24 22:41:57 | Recharge Balance: $5.0
+2024-10-24 22:44:08 | Recharge Balance: $2.0
+2024-10-24 22:49:27 | [-EVCPlus ] $160.00 ayaad u wareejisay 612345677: $-160.0
+2024-10-24 22:50:20 | [-EVCPlus ] $70.00 ayaad u wareejisay 771234567: $-70.0
+2024-10-24 22:51:26 | [-EVCPlus ] $7.00 ayaad u wareejisay 771234567: $-7.0
+2024-10-24 22:53:03 | [-EVCPlus ] $7.00 ayaad u wareejisay 771234567: $-7.0
+2024-10-24 22:59:57 | [-EVCPlus ] $7.60 ayaad u wareejisay 771234567: $-7.6
+2024-10-24 23:01:52 | [-EVCPlus ] $7.70 ayaad u wareejisay 771234567: $-7.7
+2024-10-24 23:02:59 | [-EVCPlus ] $60.00 ayaad u wareejisay 771234567: $-60.0
+2024-10-24 23:04:40 | [-EVCPlus ] $7.00 ayaad u wareejisay 771234567: $-7.0
+2024-10-24 23:05:44 | [-EVCPlus ] $0.70 ayaad u wareejisay 771234567: $-0.7
+2024-10-24 23:06:12 | [-EVCPlus ] $7.00 ayaad u wareejisay 771234567: $-7.0
+2024-11-29 20:30:44 | Ugu shub Airtime 612343455: $-2000
+2024-11-29 20:31:23 | [-EVCPlus ] $66.00 ayaad u wareejisay 612345599: $-66.0
+2024-11-29 20:38:54 | Recharge Balance: $500.0
+2024-12-06 23:38:43 | Airtime Purchase: $400
+2024-12-06 23:39:26 | Ugu shub Airtime 612345566: $-600
+2024-12-06 23:40:10 | Airtime Purchase: $400
+2024-12-06 23:47:51 | Ugu shub Airtime 612345566: $-300
+2024-12-06 23:48:01 | Ugu shub Airtime 612345555: $-200
+2024-12-06 23:49:04 | Ugu shub Airtime 612344556: $-700
+2024-12-06 23:49:14 | Ugu shub Airtime 612345566: $-400
+2024-12-06 23:52:31 | Ugu shub Airtime 612345566: $-600
+2024-12-06 23:53:11 | Mifi Data Recharge (25GB) to 612345566: $-1.0
+2024-12-06 23:54:33 | Mifi Data Recharge (UnlimitedGB) to 612346677: $-3.0
+2024-12-06 23:55:07 | Mifi Data Recharge (150GB) to 612345577: $-6.0
+2024-12-06 23:57:07 | Mifi Data Recharge (150GB) to 612345677: $-6.0
+2024-12-06 23:58:00 | Mifi Data Recharge (85GB) to 612345566: $-4.0
+2024-12-07 00:00:02 | Mifi Data Recharge (85GB) to 612345555: $-4.0
+2024-12-07 00:00:50 | Mifi Data Recharge (85GB) to 612345677: $-4.0
+2024-12-07 00:03:23 | Mifi Data Recharge (85GB) to 770987655: $-4.0
+2024-12-07 00:05:36 | Mifi Data Recharge (10GB) to 612345566: $-0.5
+2024-12-07 00:07:39 | Mifi Data Recharge (10GB) to 612345566: $-0.5
+2024-12-07 00:08:30 | Mifi Data Recharge (10GB) to 612345566: $-0.5
+2024-12-07 00:11:41 | Mifi Data Recharge (150GB) to 612345677: $-6.0
+2024-12-07 00:12:27 | Mifi Data Recharge (40GB) to 612345566: $-2.0
+2024-12-07 00:19:03 | Mifi Data Recharge (10GB) to 612345566: $-0.5
+2024-12-07 00:20:16 | Mifi Data Recharge (10GB) to 612345566: $-5.0
+2024-12-07 00:23:35 | Mifi Data Recharge (40GB) to 612345667: $-20.0
+2024-12-07 00:25:28 | Mifi Data Recharge (40GB) to 612345566: $-20.0
+2024-12-07 00:26:43 | Mifi Data Recharge (150GB) to 612345566: $-60.0
+2024-12-07 00:28:58 | Mifi Data Recharge (UnlimitedGB) to 612345566: $-30.0
+2024-12-07 00:30:30 | Bixi biil 612345566: $-7.0
