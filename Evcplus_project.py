@@ -508,8 +508,12 @@ def ku_shubo_airtime():
                     # Display the updated balance correctly
                     if (Balance / 100).is_integer():
                         print(f"Haraagaagu waa: ${Balance / 100:.0f}")
+                        date_time = datetime.now().strftime("Date: %Y-%m-%d %H:%M:%S")
+                        print(date_time)
                     else:
                         print(f"Haraagaagu waa: ${Balance / 100:.2f}")
+                        date_time = datetime.now().strftime("Date: %Y-%m-%d %H:%M:%S")
+                        print(date_time)
                 else:
                     print("Mahadsanid!")
             else:
@@ -525,9 +529,16 @@ def ku_shubo_airtime():
 # Function to handle Ugu shub Airtime (option 2 under Kaarka Hadalka)
 def ugu_shub_airtime():
     global Balance
-    print("Fadlan Geli Mobile-ka")
-    number = input().strip()
-    clear_screen()
+    while True:
+        try:
+            print("Fadlan Geli Mobile-ka")
+            number = int(input())
+            number = str(number)
+            clear_screen()
+            break
+        except ValueError:
+                print("Invalid data type")
+                
 
     # Proceed to enter the amount, keep asking until a valid amount is provided
     while True:
@@ -582,6 +593,8 @@ def ugu_shub_airtime():
             log_transaction(f"Ugu shub Airtime {number}", -amount_cents)  # Log the transaction
             print(f"Waxad ${amount:.2f} ugu shubtay {number}")
             print(f"[-EVCPlus-] Haraagaaga waa ${Balance / 100:.2f}")
+            date_time = datetime.now().strftime("Date: %Y-%m-%d %H:%M:%S")
+            print(date_time)
             
         else:
             print("Haraaga xisaabtaadu kuguma filna, Mobile No:")
@@ -705,9 +718,15 @@ def show_monthly_data_options():
 def process_data_purchase(data_price, data_gb):
     global Balance
     # Ask for phone number
-    print("Please enter Number:")
-    phone_number = input().strip()
-    clear_screen()
+    while True:
+        try:
+            print("Fadlan Geli Mobile-ka")
+            number = int(input())
+            number = str(number)
+            clear_screen()
+            break
+        except ValueError:
+                print("Invalid data type")
 
     # Validate the phone number (must start with 61 or 77 and be 9 digits long)
     if (phone_number.startswith('61') or phone_number.startswith('77')) and len(phone_number) == 9:
@@ -841,8 +860,15 @@ def show_monthly_data_options():
 def process_data_purchase(data_price, data_gb):
     global Balance
     # Ask for phone number
-    print("Please enter Number:")
-    phone_number = input().strip()
+    while True:
+        try:
+            print("Fadlan Geli Mobile-ka")
+            phone_number = int(input())
+            phone_number = str(phone_number)
+            clear_screen()
+            break
+        except ValueError:
+                print("Invalid data type")
     clear_screen()
 
     # Validate the phone number (must start with 61 or 77 and be 9 digits long)
@@ -851,7 +877,7 @@ def process_data_purchase(data_price, data_gb):
             Balance -= data_price  # Deduct the amount from the balance
             save_balance(Balance)  # Save the updated balance
             log_transaction(f"Mifi Data Recharge ({data_gb}GB) to {phone_number}", {-data_price / 100})   # Log transaction
-            print("Sent successfully.")
+            print(f"Mifi Data Recharge ({data_gb}GB) to {phone_number} Sent successfully.")
         else:
             print("Macsalaamo! Haraagaagu kugu ma filna.")
     else:
@@ -985,8 +1011,15 @@ def show_monthly_data_options():
 def process_data_purchase(data_price, data_gb):
     global Balance
     # Ask for phone number
-    print("Please enter Number:")
-    phone_number = input().strip()
+    while True:
+        try:
+            print("Fadlan Geli Mobile-ka")
+            phone_number = int(input())
+            phone_number = str(phone_number).strip()
+            clear_screen()
+            break
+        except ValueError:
+                print("Invalid data type")
     clear_screen()
 
     # Validate the phone number (must start with 61 or 77 and be 9 digits long)
@@ -995,9 +1028,9 @@ def process_data_purchase(data_price, data_gb):
             Balance -= data_price  # Deduct the amount from the balance
             save_balance(Balance)  # Save the updated balance
             log_transaction(f"Mifi Data Recharge ({data_gb}GB) to {phone_number}", -data_price / 100)   # Log transaction
-            print("Sent successfully.")
+            print(f"Mifi Data Recharge ({data_gb}GB) to {phone_number} Sent successfully.")
         else:
-            print("Maqsalaamon. Haraagaagu kuma filna.")
+            print("Macsalaam. Haraagaagu kuma filna.")
     else:
         print("Numberka aad lacagta u direyso ma ahan mid sax ah ")
         print("Fadlan iska hubi")
@@ -1062,6 +1095,8 @@ def recharge_balance():
             if valid_amount.is_integer():
                  print(f"You have successfully recharged your balance with an amount of ${valid_amount:.2f}")
                  print(f"Your currect balance is now ${Balance / 100:.2f}") 
+                 date_time = datetime.now().strftime("Date: %Y-%m-%d %H:%M:%S")
+                 print(date_time)
         else:
             print("Invalid input")  # Handle negative or zero amount
     except ValueError:
@@ -1158,6 +1193,8 @@ def pay_biil_option():
             log_transaction(f"Bixi biil {number}", -amount)  # Log the transaction
             print(f"Waxad ${amount} Biil ahaan ugu dirtay {number}")
             print(f"[-EVCPlus-] Haraagaaga waa ${Balance /100:.2f}")
+            date_time = datetime.now().strftime("Date: %Y-%m-%d %H:%M:%S")
+            print(date_time)
             
         else:
             print("Haraaga xisaabtaadu kuguma filna, Mobile No:")
@@ -1165,13 +1202,22 @@ def pay_biil_option():
     else:
         print("Mahadsanid!.")
  
- # Function to handle options under uwareeji (option 4)
+ # Function to handle options under uwareeji (option 
+
 def uwareeji_evcplus():
     global Balance
     clear_screen()
-    print("Fadlan Geli Mobile-ka")
-    number = input().strip()
-    clear_screen()
+    
+    while True:
+        try:
+            print("Fadlan Geli Mobile-ka")
+            number = int(input(""))
+            number = str(number)
+            clear_screen()
+            break
+        except ValueError:
+            print("Invalid data type")
+        
 
     # Proceed to enter the amount, keep asking until a valid amount is provided
     while True:
@@ -1219,7 +1265,7 @@ def uwareeji_evcplus():
             print("Numberka aad lacagta u direyso ma ahan mid sax ah,")
             print("fadlan iska hubi!")  # Invalid number due to invalid prefix
             return       
-
+ 
         # If valid, check balance
         if amount_cents <= Balance:
             Balance -= amount_cents  # Deduct the amount from balance in cents
@@ -1228,10 +1274,18 @@ def uwareeji_evcplus():
             if amount.is_integer():
                 print(f"[-EVCPlus-] ${amount} ayaad u wareejisay {number}")
                 print(f"Haraagaagu waa ${Balance / 100}")
+                date_time = datetime.now().strftime("Date: %Y-%m-%d %H:%M:%S")
+                print(date_time)
+                
+                
+
             else:
                 print(f"[-EVCPlus-] ${amount:.2f} ayaad u wareejisay {number}")
                     # Display the recharged amount with no decimal places if it's a whole number
                 print(f"Haraagaagu waa ${Balance / 100:.2f}") 
+                date_time = datetime.now().strftime("Date: %Y-%m-%d %H:%M:%S")
+                print(date_time)
+                
               
             
         else:
